@@ -1,8 +1,8 @@
 ---
-title: "Year one Coursework"
+title: "Sophmore Year Coursework"
 collection: coursework
 type: "Fall 2021"
-permalink: /coursework/year_one_coursework
+permalink: /coursework/Sophmore_year_coursework
 venue: "Binghamton University"
 date: 2022-15-05
 location: "Binghamton, NY "
