@@ -7,7 +7,7 @@ venue: "Binghamton University"
 location: "Binghamton, NY "
 ---
 
-A collection of courses taken during my sophomore year
+A collection of courses taken during my sophomore year, *Fall 2021-Spring 2022*
 
 
 MATH 314: Discrete Mathematics
