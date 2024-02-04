@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Fall 2021 Coursework"
 collection: teaching
-type: "Undergraduate course"
+type: "Fall 2021"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Binghamton University"
+date: 2021-08-08
+location: "Binghamton, NY "
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A collection of courses taken during my fall semester of junior year
 
-Heading 1
+EECE 351: Digital System Design
 ======
 
-Heading 2
+EECE 315: Electronics I
 ======
 
-Heading 3
+MATH 304: Linear Algebra
+======
+
+CS 311: Operating System Concepts
+======
+
+EECE 304: Signals and Systems
 ======
