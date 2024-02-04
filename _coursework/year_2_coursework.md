@@ -1,8 +1,8 @@
 ---
-title: "Sophmore Year Coursework"
+title: "Year 2 Coursework"
 collection: coursework
-type: "Sophmore Year"
-permalink: /coursework/Sophmore_year_coursework
+type: "Year 2"
+permalink: /coursework/year_2_coursework
 venue: "Binghamton University"
 location: "Binghamton, NY "
 ---
