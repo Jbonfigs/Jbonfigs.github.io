@@ -4,7 +4,6 @@ collection: coursework
 type: "Sophmore Year"
 permalink: /coursework/Sophmore_year_coursework
 venue: "Binghamton University"
-date: 2022-05-15
 location: "Binghamton, NY "
 ---
 
