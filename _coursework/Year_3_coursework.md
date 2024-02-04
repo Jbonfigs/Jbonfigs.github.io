@@ -1,14 +1,29 @@
 ---
-title: "Spring 2024 Coursework"
+title: "Senior Year Coursework"
 collection: coursework
-type: "Spring 2024"
-permalink: /coursework/Spring_2024_coursework
+type: "Fall 2023 - Spring 2024"
+permalink: /coursework/Year_3_coursework
 venue: "Binghamton University"
-date: 2021-08-08
+date: 2024-21-02
 location: "Binghamton, NY "
 ---
 
-A collection of courses taken during my spring semester of senior year
+A collection of courses taken during my senior year at Binghamton University
+
+
+MATH 463: Differential Geometry
+======
+Introduction to differential geometry via curves and surfaces in 3 dimensions. Topics covered include tangent spaces, fundamental forms, geodesics, exponential maps, parallel transport, vector fields, covariant derivatives, Gauss map, Gaussian curvature, Gauss-Bonnet theorem.
+
+
+EECE 451: Digital System Design II
+======
+VLSI design, synthesis and test using hardware description language (HDL) at the register-transfer level (RTL). HDL programming and simulation basics, followed by advanced HDL programming for synthesis and test benching. Principles of RTL synthesis introduced. Design and synthesis of digital systems to meet constraints. Pre-synthesis and post-synthesis verification using simulation. Commercial synthesis tool discussed in detail.
+
+
+EECE 487: Senior Project I
+======
+Design projects in cooperation with local industry, other external clients, and university sponsored projects - outlining specifications, proposals, time schedules, and paper designs. Periodic design reviews with client, written and oral progress reports, final presentation. Evaluation based on individual and team performance.
 
 
 CS 373: Automata Theory & Formal Language
@@ -29,3 +44,4 @@ Continuation of team development project using lightweight version of industrial
 EECE 491: Teaching Practicum
 ======
 Assist with undergraduate instruction of a formal course under the direct supervision of the course instructor.
+
