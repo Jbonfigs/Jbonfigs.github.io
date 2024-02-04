@@ -2,7 +2,7 @@
 title: "Fall 2021 Coursework"
 collection: coursework
 type: "Fall 2021"
-permalink: /coursework/Fall_2021_coursework
+permalink: 
 venue: "Binghamton University"
 date: 2021-08-08
 location: "Binghamton, NY "
