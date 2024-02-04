@@ -4,7 +4,9 @@ excerpt: "An embedded system designed to detect the location of a metal washer.<
 collection: projects
 ---
 
-This freestanding metal detector project emerged as the culmination of a collaborative effort within a university setting, specifically undertaken as part of a comprehensive course. The project was completed by a team of four individuals, consisting of two electrical engineers and two computer engineers. The electrical engineers took charge of the hardware aspects, developing schematic designs and circuit construction, while the computer engineers generated the firmware design and implementation. This university project not only showcased the team's technical proficiency but also underscored the importance of interdisciplinary collaboration in the pursuit large complex solutions. Through the amalgamation of hardware and software expertise, we successfully delivered a freestanding metal detector that stands as a testament to their dedication and the enriching educational experience provided by the university course.
+Test
+
+<!-- This freestanding metal detector project emerged as the culmination of a collaborative effort within a university setting, specifically undertaken as part of a comprehensive course. The project was completed by a team of four individuals, consisting of two electrical engineers and two computer engineers. The electrical engineers took charge of the hardware aspects, developing schematic designs and circuit construction, while the computer engineers generated the firmware design and implementation. This university project not only showcased the team's technical proficiency but also underscored the importance of interdisciplinary collaboration in the pursuit large complex solutions. Through the amalgamation of hardware and software expertise, we successfully delivered a freestanding metal detector that stands as a testament to their dedication and the enriching educational experience provided by the university course.
 
 In addition to the interdisciplinary collaboration and technical prowess demonstrated in the university project, specific project requirements were outlined to enhance the functionality of the freestanding metal detector. One key requirement involved the implementation of a counter system, where each detected washer would contribute to an incrementing count. This counter was designed to be displayed directly on the Basys 3 FPGA, providing a real-time visual representation of the number of washers detected during operation. Furthermore, the project incorporated a visual feedback mechanism by utilizing the LEDs on the FPGA. The strength of the metal signal, indicative of the proximity and size of the detected object, was translated into a corresponding display on the LEDs. 
 
@@ -18,4 +20,4 @@ The detection algorithm, a pivotal component of our project, was crafted using e
 
 
 
-
+ -->
