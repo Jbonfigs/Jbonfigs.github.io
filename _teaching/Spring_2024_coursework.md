@@ -1,8 +1,8 @@
 ---
 title: "Spring 2024 Coursework"
-collection: teaching
+collection: coursework
 type: "Spring 2024"
-permalink: /teaching/Spring_2024_coursework
+permalink: /coursework/Spring_2024_coursework
 venue: "Binghamton University"
 date: 2021-08-08
 location: "Binghamton, NY "
