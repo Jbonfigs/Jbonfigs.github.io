@@ -1,6 +1,6 @@
 ---
 title: "Free Standing Metal Detector"
-excerpt: "An embedded system designed to detect the location of a metal washer.<br/><img src='/images/image.png'>"
+excerpt: "An embedded system designed to detect the location of a metal washer, <em> March 2023 - May 2023 </em>.<br/><img src='/images/image.png'>"
 collection: projects
 ---
 
