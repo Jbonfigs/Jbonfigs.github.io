@@ -1,13 +1,3 @@
----
-title: "Fall 2021 Coursework"
-collection: coursework
-type: "Fall 2021"
-permalink: 
-venue: "Binghamton University"
-date: 2021-08-08
-location: "Binghamton, NY "
----
-
 A collection of courses taken during my fall semester of sophomore year
 
 
