@@ -4,7 +4,7 @@ collection: coursework
 type: 
 permalink: /coursework/Fall_2021_coursework
 venue: 
-date: 
+date: 2014-01-01
 location: "Binghamton, NY"
 ---
 
