@@ -1,6 +1,6 @@
 ---
 title: "Free Standing Metal Detector"
-excerpt: "An embedded system designed to detect the location of a metal washer.<br/><img src='https://youtube.com/shorts/tptHNiDqZCQ?feature=share'>"
+excerpt: "An embedded system designed to detect the location of a metal washer.<br/><img src="https://youtube.com/shorts/tptHNiDqZCQ?feature=share">"
 collection: projects
 ---
 
