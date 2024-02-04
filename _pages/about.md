@@ -9,17 +9,21 @@ redirect_from:
 ---
 
 ![Illustration of computer engineering example](/images/computer_engineering.jpeg){: .align-right width="300px"}
-👨🏻‍💻 I'm a student at Binghamton University in my senior year of computer engineering and mathematics studies.
+📚 I'm a student at Binghamton University in my senior year of computer engineering and mathematics studies and actively pursuing my masters of computer engineering and plan to complete it in May 2025.
 
 🔬 I'm currently apart of the Binghamton research experience for undergradutes (REU) program!
 
-📚 I am actively pursuing my masters of computer engineering and plan to complete it in May 2025.
+📡 I am seeking a full time internship or research position for the Summer 2023. 
 
-📽️ I also am a undergradute course assistant for a junior year embedded systems course!
+
 
 # Selected Experience
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+## 🤖 Research
+As part of the REU program, I am tasked with assisting a team for a "Autonomously Radio-Controlled Racing Car with Artificial Intelligence" research project. The team consists of over 15 members in efforts to design and develop a third-person robot coach/driver that can acquire vehicle telemetry data in real-time, provide coaching to racers, and autonomously drive an RC race car to compete with human racers. 
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+My specific are of research is in regards to the cars Arduino Nano 33 BLE. As we look to collect input data from our RC car such as steering, throttle, motor current, motor RPM, motor temperature, battery voltage, and servo voltage to simulate the same basic visual information a human has, this is a lot of data. While the micro-controller is capable of a high enough sample rate, I am actively researching into using direct memory access to save memory cycles and transmit that data over bluetooth to our Jetson Xavier. 
+
+## 👨🏻‍🔬 Professional Experience
+Currently I am member of the REU along with a course assistant for a junior year embedded systems course, where I assist in laboratory sessions and grading. Additionally, I was a software engineering intern at Northwestern Mutual from May to August of 2023. There I worked with the development operations team for there in house customer relationship platform and developed synthetic monitors to detect any possible crashed of the platform and limit site downtime. 
+
