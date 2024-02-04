@@ -6,18 +6,17 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Coursework"
-    url: /coursework/    
+   - title: "Coursework"
+     url: /coursework/    
     
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    #url: /cv/
-    url: /files/Resume.pdf
+    url: /images/Main-photo.jpg
     
   # - title: "Guide"
   #   url: /markdown/
