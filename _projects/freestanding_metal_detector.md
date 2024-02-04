@@ -1,6 +1,6 @@
 ---
 title: "Free Standing Metal Detector"
-excerpt: "An embedded system designed to detect the location of a metal washer.<br/><img src='/images/metal_detector.mp4'>"
+excerpt: "An embedded system designed to detect the location of a metal washer.<br/><img src='https://youtube.com/shorts/tptHNiDqZCQ?feature=share'>"
 collection: projects
 ---
 
@@ -8,7 +8,7 @@ This freestanding metal detector project emerged as the culmination of a collabo
 
 In addition to the interdisciplinary collaboration and technical prowess demonstrated in the university project, specific project requirements were outlined to enhance the functionality of the freestanding metal detector. One key requirement involved the implementation of a counter system, where each detected washer would contribute to an incrementing count. This counter was designed to be displayed directly on the Basys 3 FPGA, providing a real-time visual representation of the number of washers detected during operation. Furthermore, the project incorporated a visual feedback mechanism by utilizing the LEDs on the FPGA. The strength of the metal signal, indicative of the proximity and size of the detected object, was translated into a corresponding display on the LEDs. 
 
-![alt text](images/block-diagram.png)
+![alt text](/images/block_diagram.png)
 
 Central to the success of our freestanding metal detector project was the comprehensive design approach facilitated by a detailed block diagram, which served as a visual roadmap for the integration of various components. The block diagram not only encapsulated the hardware schematic and FPGA circuitry but also included the incorporation of the MicroBlaze softcore processor. Leveraging the MicroBlaze architecture provided a flexible and scalable foundation for implementing the detection algorithm, allowing for efficient communication between hardware and software elements.
 
