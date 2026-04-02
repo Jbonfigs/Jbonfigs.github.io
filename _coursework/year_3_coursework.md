@@ -3,8 +3,9 @@ title: "Year 3 Coursework"
 collection: coursework
 type: "Year 3"
 permalink: /coursework/year_3_coursework
+university: "binghamton"
 venue: "Binghamton University"
-location: "Binghamton, NY "
+location: "Binghamton, NY"
 ---
 
 A collection of courses taken during my junior year, *Fall 2022-Spring 2023*

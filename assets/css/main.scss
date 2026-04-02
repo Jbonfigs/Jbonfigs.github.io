@@ -39,3 +39,153 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// ─── Minimalist overrides ───────────────────────────────────────────────────
+
+// Typography
+body {
+  font-size: 15px;
+}
+
+// Masthead — thinner, cleaner
+.masthead {
+  border-bottom: 1px solid #e8e8e8;
+  background: #fff;
+  padding: 0.6em 0;
+  box-shadow: none;
+}
+
+.masthead__inner-wrap {
+  padding: 0.4em 1em;
+}
+
+// Nav links — lighter weight
+.greedy-nav a {
+  font-weight: 400;
+  font-size: 0.85em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+// Sidebar — remove border, tighten spacing
+.sidebar.sticky {
+  border-right: none;
+}
+
+.author__avatar img {
+  border-radius: 4px; // subtle, not fully circular
+  border: none;
+  box-shadow: none;
+}
+
+.author__name {
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 0.2em;
+}
+
+.author__bio {
+  font-size: 0.8em;
+  color: #555;
+  line-height: 1.5;
+}
+
+// Remove Follow button entirely
+.btn--follow,
+.author__urls-wrapper > button {
+  display: none !important;
+}
+
+// Always show social links (no toggle needed without button)
+.author__urls {
+  display: block !important;
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  padding: 0;
+  margin-top: 0.8em;
+}
+
+.author__urls li {
+  font-size: 0.8em;
+  padding: 0.2em 0;
+}
+
+// Page content
+.page__content {
+  font-size: 0.95em;
+  line-height: 1.75;
+}
+
+.page__content h2 {
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #333;
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 0.4em;
+  margin-top: 2.5em;
+}
+
+.page__title {
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
+// Project/archive cards
+.archive__item {
+  padding: 1.2em 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.archive__item-title {
+  font-size: 0.95em;
+  font-weight: 600;
+  margin-bottom: 0.2em;
+}
+
+.archive__item-excerpt {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.2em;
+}
+
+// Footer — minimal
+.page__footer {
+  font-size: 0.75em;
+  color: #aaa;
+  border-top: 1px solid #e8e8e8;
+  background: #fff;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  padding: 0.6em 0;
+}
+
+// University nav buttons on coursework page
+.university-nav {
+  display: flex;
+  gap: 1em;
+  margin-top: 1.5em;
+}
+
+.university-nav .btn {
+  font-size: 0.85em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.6em 1.4em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #333;
+  background: #fff;
+  transition: background 0.15s, color 0.15s;
+}
+
+.university-nav .btn:hover {
+  background: #333;
+  color: #fff;
+  border-color: #333;
+}

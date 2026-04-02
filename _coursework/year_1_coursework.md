@@ -3,8 +3,9 @@ title: "Year 1 Coursework"
 collection: coursework
 type: "Year 1"
 permalink: /coursework/year_1_coursework
+university: "binghamton"
 venue: "Manhattan College"
-location: "New York, NY "
+location: "New York, NY"
 ---
 
 A collection of courses taken during my freshman year, *Fall 2020-Spring 2021*

@@ -2,6 +2,7 @@
 title: "Free Standing Metal Detector"
 excerpt: "An embedded system designed to detect the location of a metal washer, <em> March 2023 - May 2023 </em>.<br/><img src='/images/image.png'>"
 collection: projects
+date: 2023-05-01
 ---
 
 This freestanding metal detector project emerged as the culmination of a collaborative effort within a university setting, specifically undertaken as part of a comprehensive course. The project was completed by a team of four individuals, consisting of two electrical engineers and two computer engineers. The electrical engineers took charge of the hardware aspects, developing schematic designs and circuit construction, while the computer engineers generated the firmware design and implementation. This university project not only showcased the team's technical proficiency but also underscored the importance of interdisciplinary collaboration in the pursuit large complex solutions. Through the amalgamation of hardware and software expertise, we successfully delivered a freestanding metal detector that stands as a testament to their dedication and the enriching educational experience provided by the university course.

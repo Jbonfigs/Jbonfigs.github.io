@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Northeastern University Coursework"
+permalink: /coursework/northeastern/
+author_profile: true
+---
+{% include base_path %}
+
+{% assign nu_courses = site.coursework | where: "university", "northeastern" %}
+{% for post in nu_courses %}
+  {% include archive-single.html %}
+{% endfor %}

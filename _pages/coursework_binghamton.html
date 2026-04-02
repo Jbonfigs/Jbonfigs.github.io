@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Binghamton University Coursework"
+permalink: /coursework/binghamton/
+author_profile: true
+---
+{% include base_path %}
+
+{% assign bu_courses = site.coursework | where: "university", "binghamton" | reverse %}
+{% for post in bu_courses %}
+  {% include archive-single.html %}
+{% endfor %}

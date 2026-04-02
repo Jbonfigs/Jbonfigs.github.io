@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jack Bonfiglio's Homepage"
+title                    : "Jack Bonfiglio"
 title_separator          : "-"
 name                     : &name "Jack Bonfiglio"
-description              : &description "personal description"
+description              : &description "PhD Student in Computer Engineering at Northeastern University. Research in fault injection and resilient FPGA design for CNNs."
 url                      : https://Jbonfigs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jbonfigs/Jbonfigs.github.io"
@@ -47,6 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide: true
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
@@ -82,12 +83,12 @@ analytics:
 author:
   name             : "Jack Bonfiglio"
   avatar           : "Main-photo.jpg"
-  bio              : "Computer Engineering and Mathematical Sciences Undergraduate"
-  location         : "New York"
-  employer         : "Binghamton University"
+  bio              : "PhD Student in Computer Engineering, Northeastern University"
+  location         : "Boston, MA"
+  employer         : "Northeastern University"
   pubmed           : 
   googlescholar    :
-  email            : "jrbonfigs@optonline.net"
+  email            : "jack.r.bonfiglio@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -184,6 +185,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
   talks:
     output: true
     permalink: /:collection/:path/

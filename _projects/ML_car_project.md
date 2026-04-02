@@ -1,7 +1,8 @@
 ---
 title: "Machine Learning Based Autonomous Car"
-excerpt: "Senior year project based on developing a autonomous RC car with a machine learning toolset, <em> Ongoing </em>.<br/><img src='/images/ML_car.jpeg'>"
+excerpt: "Senior year project based on developing a autonomous RC car with a machine learning toolset, <em> September 2023 - May 2024 </em>.<br/><img src='/images/ML_car.jpeg'>"
 collection: projects
+date: 2024-05-01
 ---
 
 This project is in partnership with Lockheed Martin in which a budget of $1,000 was supplied to develop addition and upgraded components to the vehicle. The car was built using the Jetson Orin processor on the Latrax rally RC car. Some of the projects requirements include:
